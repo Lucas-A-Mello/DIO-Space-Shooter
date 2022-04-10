@@ -4,10 +4,10 @@ var mySong = document.getElementById('mySong');
     icon.onclick = function() {
          if(mySong.paused) {
                mySong.play();
-               icon.src = "/img/volume-mute.svg";
+               icon.src = "img/volume-mute.svg";
          }
          else{
                mySong.pause();
-               icon.src = "/img/volume-up.svg";
+               icon.src = "img/volume-up.svg";
          }
     }
