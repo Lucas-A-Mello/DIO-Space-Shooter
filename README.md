@@ -4,7 +4,7 @@ Space Shooter - Jogo para o bootcamp da DIO &amp; Órbi
 Para jogar:
 https://lucas-a-mello.github.io/DIO-Space-Shooter/
 
-<video src='midia/space-shooter.mp4' width='600' controls></video>
+<img src="midia/space-shooter.gif" width='600'>
 
 <h2>Projeto</h2>
 <p>Um jogo de Space Shooter desenvolvido para o bootcamp da Órbi, curso da DIO.</p>
